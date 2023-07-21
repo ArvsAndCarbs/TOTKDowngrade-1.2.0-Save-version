@@ -12,31 +12,31 @@ Needed:
 6. Optional: Clean unhacked switch
 
   A. Downgrade your Save Game version from 1.2.0 to 1.0 (so that game will not force you to download update when used):
-1. Using CFW switch, boot to a clean sysnan without TOTK updates. (if you are going to sync the save game to cloud, make sure the sysnand state is clean.)
-2. Do not link to nintendo id yet
+1. Using CFW switch in emunand, 
+2. Remove existing 1.2.0 totk installation (maybe use tinfoil).
 3. In Emunand while offline, insert TOTK cartridge and dont install update.
-4. Restore the 1.2.0 back and play the game. yes 1.0.0 TOTK will load 1.2.0 save just fine. :)
+4. Restore the 1.2.0 game save using JKSV and play the game. yes 1.0.0 TOTK will load 1.2.0 save just fine. :)
 5. When game save is Loaded, save the game. This will convert that save slot to version 1.0 save!
 6. Do this with all the slot by teleporting to sky, overworld, underground alternately while letting it autosave and do a hard save. Do this couple of times to overwrite all save slots with auto save and hard saves using the 1.0 version of the game.
 7. Use JKSV to backup this new save game using a different name. 
 
-  B. Use a CFW switch to Send 1.1.1 update to a clean unmodded switch:
-1. In your CFW switch, Boot CFW to sysnand offline
+  B. Update your CFW sysndand switch with 1.1.1 Game Version:
+1. In your CFW switch, Boot CFW to clean sysnand offline
 2. Disable Auto software udpate in System
 3. Plug TOTK cartridge and dont update (if you removed it)
 4. Use Goldleaf to update game using the 1.1.1 file
-C. OPTIONAL: Update your Clean switch with 1.1.1 Game Version:
+5. Tun off auto update
+   
+  C. OPTIONAL: Send 1.1.1 update to a clean unmodded switch:
 1. If you want to play TOTK in a different switch, Reset factory settings that device to wipe TOTK game updates. Don't sync it yet with your Account, just create a user. Keep offline.
-2. BOOT CFW switch to Stock FW
-3. Use match version feature to install the 1.1.1 update to your clean switch. While game is selected, press + and under Software Update, use Math Version with Local Users feature.
-4. Tun off auto update
+2. turn on CFW switch to sysndand from section B
+3. turn on Clean switch, Turn off auto update
+4. Use match version feature to install the 1.1.1 update to your clean switch. While game is selected, press + and under Software Update, use Math Version with Local Users feature.
 
   D. Downgrade your 1.2.0 Game save to 1.1.1 Game Save Version:
 1. Boot to Sysnand CFW
-2. Use JKSV to restore your fresh 1.0 game save
+2. Use JKSV to restore your fresh 1.0 game save from Section A
 3. Run the game again and load your 1.0 saves
-4. THEN convert your game saves to 1.1.1 by performing steps 5-6 from Section A (could be optional)
-5. Backup the 1.1.1 saves again using different name. Just in case you want to edit the saves. ;)
 6. Done!
 
   C. Resume the game in Stock FW
