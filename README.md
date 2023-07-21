@@ -12,7 +12,7 @@ Needed:
 6. Optional: Clean unhacked switch
 
   A. Downgrade your Save Game version from 1.2.0 to 1.0 (so that game will not force you to download update when used):
-1. Using CFW switch start with a clean sysnand and then create a new emunand from it. You can restore your sysnand backup for clean install
+1. Using CFW switch, boot to a clean sysnan without TOTK updates. (if you are going to sync the save game to cloud, make sure the sysnand state is clean.)
 2. Do not link to nintendo id yet
 3. In Emunand while offline, insert TOTK cartridge and dont install update.
 4. Restore the 1.2.0 back and play the game. yes 1.0.0 TOTK will load 1.2.0 save just fine. :)
