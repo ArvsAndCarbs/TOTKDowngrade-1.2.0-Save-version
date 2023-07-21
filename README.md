@@ -2,6 +2,7 @@
 Downgrade Game upate and Game save to play TOTK on 1.1.1
 
 DISCLAIMER: This may or may not result to a ban so do this at your own risk. I haven't found a guide so I made an effort to make this. 
+
 Needed:
 1. JKSV backup of 1.1.2/1.2.0 save
 2. TOTK cartridge (I used 2 of them)
