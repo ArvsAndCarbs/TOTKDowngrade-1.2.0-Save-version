@@ -5,7 +5,7 @@ DISCLAIMER: Optional steps below may or may not result to a ban so do this at yo
 
 Needed:
 1. JKSV backup of 1.1.2/1.2.0 save
-2. TOTK cartridge (I used 2 of them)
+2. TOTK cartridge 
 3. TOTK 1.1.1 NSP 391MB file (I used "TLOZ-TOTK-(USA)-NSwTcH-NSP-Update111-Ziperto")
 4. Save the nsp file in the nsp folder in root or wherever
 5. CFW switch on 16.0.3
@@ -32,7 +32,7 @@ Needed:
 2. Use JKSV to restore downgraded save from Section A on your sysnand
 3. Reboot to Stock FW and play the game
    
-  C. OPTIONAL: Send 1.1.1 game update to a clean unmodded switch:
+  C. OPTIONAL: Send 1.1.1 game update to a clean unmodded switch: I used two cartridge for eah switch. Not sure if it will work on one cart only.
 1. If you want to play TOTK in a different switch, Reset factory settings that device to wipe TOTK game updates. Don't sync it yet with your Account, just create a user. Keep offline.
 2. turn on CFW switch to sysndand from section B
 3. turn on Clean switch, Turn off auto update
