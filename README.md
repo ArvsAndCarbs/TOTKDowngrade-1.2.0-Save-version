@@ -1,5 +1,5 @@
 # TOTKDowngrade-1.2.0-Save-version
-Downgrade Game upate and Game save to play TOTK on 1.1.1 in stock FW
+Downgrade Game update and Game save to play TOTK on 1.1.1 in stock FW
 
 DISCLAIMER: Optional steps below may or may not result to a ban so do this at your own risk. I haven't found a guide so I made an effort to make this. 
 
