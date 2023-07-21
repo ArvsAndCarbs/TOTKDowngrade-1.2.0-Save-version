@@ -20,7 +20,7 @@ Needed:
 6. Do this with all the slot by teleporting to sky, overworld, underground alternately while letting it autosave and do a hard save. Do this couple of times to overwrite all save slots with auto save and hard saves using the 1.0 version of the game.
 7. Use JKSV to backup this new save game using a different name. 
 
-  B. Create your Sysnand 1.1.1 Game Version:
+  B. Use a CFW switch to Send 1.1.1 update to a clean unmodded switch:
 1. In your CFW switch, Boot CFW to sysnand offline
 2. Disable Auto software udpate in System
 3. Plug TOTK cartridge and dont update (if you removed it)
