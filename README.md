@@ -11,7 +11,7 @@ Needed:
 5. CFW switch on 16.0.3
 6. Optional: Clean unhacked switch
 
-  A. Revert Save Game version (so that game will not force you to download update when used):
+  A. Downgrade your Save Game version from 1.2.0 to 1.0 (so that game will not force you to download update when used):
 1. Using CFW switch start with a clean sysnand and then create a new emunand from it. You can restore your sysnand backup for clean install
 2. Do not link to nintendo id yet
 3. In Emunand while offline, insert TOTK cartridge and dont install update.
