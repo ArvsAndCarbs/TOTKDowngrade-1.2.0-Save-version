@@ -1,7 +1,7 @@
 # TOTKDowngrade-1.2.0-Save-version
-Downgrade Game upate and Game save to play TOTK on 1.1.1
+Downgrade Game upate and Game save to play TOTK on 1.1.1 in stock FW
 
-DISCLAIMER: This may or may not result to a ban so do this at your own risk. I haven't found a guide so I made an effort to make this. 
+DISCLAIMER: Optional steps below may or may not result to a ban so do this at your own risk. I haven't found a guide so I made an effort to make this. 
 
 Needed:
 1. JKSV backup of 1.1.2/1.2.0 save
@@ -26,23 +26,17 @@ Needed:
 3. Plug TOTK cartridge and dont update (if you removed it)
 4. Use Goldleaf to update game using the 1.1.1 file
 5. Tun off auto update
+
+   C. Play downgraded save in Stock FW
+1. Boot up to CFW sysnand
+2. Use JKSV to restore downgraded save from Section A on your sysnand
+3. Reboot to Stock FW and play the game
    
-  C. OPTIONAL: Send 1.1.1 update to a clean unmodded switch:
+  C. OPTIONAL: Send 1.1.1 game update to a clean unmodded switch:
 1. If you want to play TOTK in a different switch, Reset factory settings that device to wipe TOTK game updates. Don't sync it yet with your Account, just create a user. Keep offline.
 2. turn on CFW switch to sysndand from section B
 3. turn on Clean switch, Turn off auto update
 4. Use match version feature to install the 1.1.1 update to your clean switch. While game is selected, press + and under Software Update, use Math Version with Local Users feature.
-
-  D. Downgrade your 1.2.0 Game save to 1.1.1 Game Save Version:
-1. Boot to Sysnand CFW
-2. Use JKSV to restore your fresh 1.0 game save from Section A
-3. Run the game again and load your 1.0 saves
-6. Done!
-
-  C. Resume the game in Stock FW
-1. Boot up in Stock FW
-2. Link the user account to your Nintendo account if you want (You can get a ban if you have other pirated stuff on your CFW switch!)
-3. Enjoy!
 
 D. OPTIONAL: Sync to Cloud save and play on your Clean 2nd console
 1. Boot your CFW switch to Stock FW
