@@ -32,13 +32,13 @@ Needed:
 2. Use JKSV to restore downgraded save from Section A on your sysnand
 3. Reboot to Stock FW and play the game
    
-  C. OPTIONAL: Send 1.1.1 game update to a clean unmodded switch: I used two cartridge for eah switch. Not sure if it will work on one cart only.
+  D. OPTIONAL: Send 1.1.1 game update to a clean unmodded switch: I used two cartridge for eah switch. Not sure if it will work on one cart only.
 1. If you want to play TOTK in a different switch, Reset factory settings that device to wipe TOTK game updates. Don't sync it yet with your Account, just create a user. Keep offline.
 2. turn on CFW switch to sysndand from section B
 3. turn on Clean switch, Turn off auto update
 4. Use match version feature to install the 1.1.1 update to your clean switch. While game is selected, press + and under Software Update, use Match Version with Local Users feature.
 
-D. OPTIONAL: Sync to Cloud save and play on your Clean 2nd console
+E. OPTIONAL: Sync to Cloud save and play on your Clean 2nd console
 1. Boot your CFW switch to Stock FW
 2. Link the user account to your Nintendo account (You can get a ban if you have other pirated stuff on your CFW switch!)
 3. Upload your save to Cloud Backup (error may show up saying Server save does not match local save until unified...etc)
