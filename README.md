@@ -32,7 +32,7 @@ Needed:
 2. Use JKSV to restore downgraded save from Section A on your sysnand
 3. Reboot to Stock FW and play the game
    
-  D. OPTIONAL: Send 1.1.1 game update to a clean unmodded switch: I used two cartridge for eah switch. Not sure if it will work on one cart only.
+  D. OPTIONAL: Send 1.1.1 game update to a clean unmodded switch: I used two cartridge for each switch but will work with one cart on one of the console when i checked.
 1. If you want to play TOTK in a different switch, Reset factory settings that device to wipe TOTK game updates. Don't sync it yet with your Account, just create a user. Keep offline.
 2. turn  the CFW switch (from section B) to sysndand 
 3. turn on Clean switch, Turn off auto update
